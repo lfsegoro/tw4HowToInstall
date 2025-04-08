@@ -8,7 +8,7 @@ npm install tailwindcss @tailwindcss/cli
 ```
 Next (Optional) dont need if you have your own files:
 ```
-Copy All sample code inside this repo.
+#Copy All sample code inside this repo. You can do it manyally or by git clone :)
 ```
 Next:
 ```
