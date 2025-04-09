@@ -2,6 +2,7 @@ Make sure in root of the project folder, run :
 ```
 npm init -y
 npm install tailwindcss @tailwindcss/cli
+
 ```
 Next (Optional) dont need if you have your own files:
 ```
