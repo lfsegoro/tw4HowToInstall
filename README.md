@@ -12,4 +12,4 @@ npm install tailwindcss @tailwindcss/cli
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ```
-I am using Vscode, so dont forget to install extension Tailwind CSS Intellisense.
+I am using Vscode, so dont forget to install extension Tailwind CSS Intellisense, if you need auto complete.
