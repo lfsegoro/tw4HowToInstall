@@ -1,2 +1,1 @@
-# tw4HowToInstall
-How to install tailwindcss 4 (latest) to any project.
+Please choose the branch 'master' from the dropdown
