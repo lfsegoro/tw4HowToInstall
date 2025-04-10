@@ -5,7 +5,6 @@ This is for a new blank project folder. Do:
 git clone --branch master https://github.com/lfsegoro/tw4HowToInstall.git .
 npm init -y
 npm install tailwindcss @tailwindcss/cli
-npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 # this create tailwind.config.js
 echo 'module.exports = {
   content: ["./src/**/*.{html,js}"],
@@ -15,6 +14,7 @@ echo 'module.exports = {
   plugins: [],
 };
 ' > tailwind.config.js
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ```
 If You have already a running project (not empty folder).
