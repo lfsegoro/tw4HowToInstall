@@ -22,6 +22,6 @@ I am using Vscode, so dont forget to install extension Tailwind CSS Intellisense
 
 Tips: 
 
-If no autocomplete not show when you type class="",
+If no autocomplete not show when you type class="" , then wait for a minutes or 
 
 try to "ctrl + space"
