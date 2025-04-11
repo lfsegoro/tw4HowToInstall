@@ -10,8 +10,8 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css
 ```
 If You have already a running project (not empty folder).
 Make sure in root of the project folder, Do:
-- copy ./src/input.css to your src folder
-- copy tailwind.config.js to your root folder
+- create file and content copy ./src/input.css to your src folder
+- create file and content copy tailwind.config.js to your root folder
 ```
 npm install tailwindcss @tailwindcss/cli
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css
