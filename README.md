@@ -19,3 +19,7 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css
 ```
 Open tw4.html to see the result of the tailwind styling.
 I am using Vscode, so dont forget to install extension Tailwind CSS Intellisense, if you need auto complete.
+
+Tips: 
+If no autocomplete not show when you type class=""
+try to "ctrl + space"
