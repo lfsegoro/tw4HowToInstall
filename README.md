@@ -1,3 +1,4 @@
+This is how to install tailwindcss v4. I tried with framework vue.js.
 This is for a new blank project folder. Do:
 ```
 #Copy All sample code inside this repo. 
