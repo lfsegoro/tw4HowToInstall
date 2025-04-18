@@ -1,3 +1,5 @@
+Warning!!! It not worked on react. On react+vite use postcss method.
+this is only use tailwindcss/cli, and tried on vue.js and worked. 
 This is how to install tailwindcss v4. I tried with framework vue.js.
 This is for a new blank project folder. Do:
 ```
