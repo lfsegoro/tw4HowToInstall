@@ -1,1 +1,1 @@
-Please choose the branch 'master' from the dropdown
+Choose from the dropdown Branch !!
